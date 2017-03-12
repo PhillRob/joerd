@@ -18,7 +18,7 @@ The [collect.py](https://github.com/tilezen/joerd/blob/master/docs/examples/coll
 
 Download tiles into a named local directory:
 
-`python collect.py --bounds 37.8434, -122.3193, 37.7517, -122.0927 --zoom 12 directory/path/`
+`python collect.py --bounds 37.8434 -122.3193 37.7517 -122.0927 --zoom 12 directory/path/`
 
 
 ### GDAL
